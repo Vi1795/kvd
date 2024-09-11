@@ -7,5 +7,7 @@ public class pushone {
 		
 		System.out.println("i am ppushing to git");
 	}
-
+public void gittest() {
+	System.out.println("checking git");
+}
 }
